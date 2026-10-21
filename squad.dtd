@@ -5,7 +5,7 @@
 <!ELEMENT web (#PCDATA)>
 <!ELEMENT picture (#PCDATA)>
 <!ELEMENT title (#PCDATA)>
-<!ELEMENT member (name, email?, icq?, remark?>)
+<!ELEMENT member (name, email?, icq?, remark?)>
 <!ATTLIST member id CDATA #REQUIRED>
 <!ATTLIST member nick CDATA #REQUIRED>
 <!ELEMENT icq (#PCDATA)>
